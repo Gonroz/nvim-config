@@ -1,2 +1,5 @@
 require("gonroz.remap")
 require("gonroz.set")
+require("gonroz.packer")
+require("gonroz.lualine")
+--require("gonroz.nvimtree")
